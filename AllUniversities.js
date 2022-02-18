@@ -5274,7 +5274,25 @@
 "Yaba College Of Technology",
 "Yildiz Technical University",
 "Zagreb School Of Economics And Management",
-"Zhejiang University Of Technology"
+"Zhejiang University Of Technology",
+ "A.C. Fitzgerald & Associates",
+"Antonin Scalia Law School at George Mason University",
+"Association to Advance Collegiate Schools of Business",
+"Atlas Network",
+"Foundation for Economic Education",
+"Heterodox Academy",
+"Institute for Economic Affairs",
+"Institute for Humane Studies",
+"Institute for Liberal Studies",
+"Institute of Economic Affairs",
+"Mercatus Center",
+"Movimiento Libertario",
+"Pioneer Institute",
+"Searle Freedom Trust",
+"Southern Baptist University",
+"Stand Together",
+"The Association for Teaching Kids Economics",
+"The Philanthropic Enterprise, LLC"
     ];
    
     $("[fs-field-validation-name='1.1 University name'] > input").autocomplete({
